@@ -1,0 +1,14 @@
+Question)
+Why Java known to be a Platform Independent language.
+Solution-
+Java is a Platform Independent language because it is Java Virtual Machine which maqkes it Platform Independent language.
+
+Java Virtual Machine or we can saimply called it as JVM itself is plateform dependent.
+
+Now going in depth we can explain it as when we first write the code First javaC compiles our written code 
+
+in bytecode.Now this bytecode is not undestandable code and only JVM can convert it in machine understandable language.
+
+But we can run this compiled code or byte code on any OS wether we use Linux or windows or mack for writing it.
+
+Hence we can say that Java is a Platform Independent language.
